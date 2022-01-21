@@ -21,7 +21,7 @@ class headerHome extends HTMLElement {
              <div class="col-left">
                <div class="home-text">
                  <h1>
-                   Covid-T website tracking Covid-19 di Indonesia
+                   Covid-T, website untuk monitor total penderita Covid-19 di Indonesia
                  </h1>
                 <span class="square"></span>
                 <p>Covid-19 adalah penyakit menular yang disebabkan oleh SARS-CoV-2, salah satu jenis koronavirus. Website Covit-T ini, bertujuan untuk membantu masayarakat mengupdate informasi tentang persebaran covid-19 di Indonesia.</p>

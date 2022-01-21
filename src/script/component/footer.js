@@ -13,7 +13,7 @@ class footerCovid extends HTMLElement {
       <div class="footer-right-col">
         <div class="footer-info">
           <div class="footer-logo">
-            <img src="${footerLogo}" />
+            <a href="#home"><img src="${footerLogo}" alt="footer-logo" /></a>
           </div>
         </div>
       </div>

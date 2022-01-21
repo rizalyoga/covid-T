@@ -147,6 +147,7 @@ nav ul li a {
 
 .status-col img {
   width: 100px;
+  margin-bottom: -8px;
 }
 
 .status-col h4 {
@@ -158,6 +159,7 @@ nav ul li a {
 
 .status-col .stats {
   color: #3f3d56;
+  margin-top: -12px;
 }
 
 .status-btn {
